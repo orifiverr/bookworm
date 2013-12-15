@@ -1,0 +1,65 @@
+<html>
+<head>
+<style>
+body {
+direction:rtl;
+font-family:Arial;
+font-size:14px;
+}
+
+.send {
+font-size:18px;
+}
+
+label {
+width:55px;
+text-align:left;
+float:right;
+}
+
+input {
+font-size:14px;
+}
+
+.input-email {
+width:340px;
+}
+
+.input-name {
+width:255px;
+}
+
+.explanation {
+font-size:14px;
+}
+
+</style>
+</head>
+<body>
+<p class="explanation">לקבלת קישור להורדת התוכנה להתנסות מלא את הטופס ושלח. </p>
+<form method="post" action="http://www.shoval10.com/process_demo.php">
+
+<input type="hidden" value="relig" name="version" />
+
+<p>
+<label>אימייל :</label>
+<input type="text" name="email" class="input-email" />
+</p>
+
+<p>
+<label>שם :</label>
+<input type="text" name="name" class="input-name"/>
+</p>
+
+<p>
+<label>טלפון :</label>
+<input type="text" name="phone" />
+</p>
+
+<p>
+<input type="submit" value="שלח" class="send" />
+</p>
+</form>
+
+</body>
+</html>
