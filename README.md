@@ -17,7 +17,6 @@ shoval
 shoval123
 
 php hosting:
-www.shoval10.com
 https://www.hosting24.com/members/index.php
 info@shoval.co.il
 newage22
