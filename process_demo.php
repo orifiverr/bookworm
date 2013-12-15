@@ -1,5 +1,5 @@
-// -*- encoding : utf-8 -*-
 ﻿<?php
+﻿// -*- encoding : utf-8 -*-
 try
 {
     $email = strip_tags($_POST['email']);
