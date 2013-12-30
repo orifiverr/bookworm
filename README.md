@@ -2,6 +2,7 @@
 
 - user fills one of the forms(hebrew, religon hebrew, english), files are at https://github.com/orifiverr/bookworm
 - each form contain 4 fields: name, email, phone, version
+- the form is posted with those params
 - the script returns a thank you or failed response
 - the script sends html email according to the version field to the email in email field
 - the script also sends email to info@shoval.co.il notifying about the download request
