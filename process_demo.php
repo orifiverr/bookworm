@@ -28,7 +28,7 @@ try
 לכניסה לתוכנה יש ללחוץ בחלון הפתיחה על <b>אישור</b>. ניתן להכנס 10 פעמים <b>ללא קוד פתיחה</b>. קוד פתיחה קבוע נמסר לאחר רכישת התוכנה. מומלץ להיעזר בהסברים הנילווים לכל מסך פעילות, הנפתחים בלחיצה על כפתור העזרה (?). 
 </p>
 <p>
-<a href="https://www.transferbigfiles.com/6e7359ef-ad77-4f88-b37b-7ab695c4d1bc/9qs4Nxpj-2wVDomRPNATeg2">קישור להורדה</a>
+<a href="https://www.transferbigfiles.com/feb0f843-b062-4d71-af53-de5db71f9f04/ZaTfxMLWdYqYRoI2BngJcQ2">קישור להורדה</a>
 </p>
 <span>בברכה,</span><br/>
 <span>צוות שובל תקשורת שיווקית ומחשוב</span><br/>
