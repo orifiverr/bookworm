@@ -115,7 +115,7 @@ try
 </html>
         ';
     
-    sendHTMLemail('info@shoval.co.il','טופס הורדה מולא','info@shoval.co.il',$adminMessage);
+    sendHTMLemail('lushishm@gmail.com','טופס הורדה מולא','info@shoval.co.il',$adminMessage);
     
     if ($success)
     {
